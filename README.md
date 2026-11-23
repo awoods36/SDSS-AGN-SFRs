@@ -1,4 +1,4 @@
-This project includes the code used to generate and analyze the SFR in AGN and control galaxies from the SDSS MaNGA Survey. 
+This project includes the code used to generate and analyze radial SFRs in AGN and control galaxies from the SDSS MaNGA Survey. 
 
 Server Data is to be run on Sciserver using their Marvin module as Marvin doesn't work properly on windows. 
 
